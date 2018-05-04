@@ -1,0 +1,19 @@
+2018-05-04T10:19:12.444Z - error:  [01136] Tfs repository was not determined
+2018-05-04T10:19:12.721Z - error:  [01136] RemoteAuthenticationServer.getPublicKey: it failed at getting public key: connect ECONNREFUSED 127.0.0.1:8111
+2018-05-04T10:19:12.722Z - warn:   [01136] [SignIn::tryGetCredentialsFromPersistence] failed to get credentials from persistence with error: connect ECONNREFUSED 127.0.0.1:8111
+2018-05-04T10:46:26.438Z - error:  [01136] RemoteAuthenticationServer.getPublicKey: it failed at getting public key: connect ECONNREFUSED 127.0.0.1:8111
+2018-05-04T10:46:26.438Z - warn:   [01136] [SignIn::tryGetCredentialsFromPersistence] failed to get credentials from persistence with error: connect ECONNREFUSED 127.0.0.1:8111
+2018-05-04T10:46:55.050Z - warn:   [01136] [GitSupportProvider::tryParseAndAddStatusRow] The status raw  M test1.txt was not parsed with error: Error: Incorrect number of parsed arguments in the status row  M test1.txt
+2018-05-04T10:46:55.050Z - warn:   [01136] [GitSupportProvider::tryParseAndAddStatusRow] The status raw ?? teamcity-extension.log was not parsed with error: Error: Incorrect number of parsed arguments in the status row ?? teamcity-extension.log
+2018-05-04T10:47:03.552Z - error:  [01136] [tryExecuteCommand] Error: Choose at least one changed file.
+2018-05-04T10:47:06.075Z - warn:   [01136] [GitSupportProvider::tryParseAndAddStatusRow] The status raw  M test1.txt was not parsed with error: Error: Incorrect number of parsed arguments in the status row  M test1.txt
+2018-05-04T10:47:06.075Z - warn:   [01136] [GitSupportProvider::tryParseAndAddStatusRow] The status raw ?? teamcity-extension.log was not parsed with error: Error: Incorrect number of parsed arguments in the status row ?? teamcity-extension.log
+2018-05-04T10:47:12.965Z - warn:   [01136] [GitSupportProvider::tryParseAndAddStatusRow] The status raw ?? teamcity-extension.log was not parsed with error: Error: Incorrect number of parsed arguments in the status row ?? teamcity-extension.log
+2018-05-04T10:47:17.069Z - error:  [01136] [GetSuitableConfig]: Suitable build configurations with non-manual VCS checkout mode in where you have permissions to run builds were not found for the specified changes.
+2018-05-04T10:47:17.069Z - error:  [01136] [tryExecuteCommand] Suitable build configurations with non-manual VCS checkout mode in where you have permissions to run builds were not found for the specified changes.
+2018-05-04T10:49:32.706Z - error:  [07592] Tfs repository was not determined
+2018-05-04T10:49:37.225Z - warn:   [07592] [GitSupportProvider::tryParseAndAddStatusRow] The status raw ?? teamcity-extension.log was not parsed with error: Error: Incorrect number of parsed arguments in the status row ?? teamcity-extension.log
+2018-05-04T10:49:39.673Z - error:  [07592] [GetSuitableConfig]: Suitable build configurations with non-manual VCS checkout mode in where you have permissions to run builds were not found for the specified changes.
+2018-05-04T10:49:39.674Z - error:  [07592] [tryExecuteCommand] Suitable build configurations with non-manual VCS checkout mode in where you have permissions to run builds were not found for the specified changes.
+2018-05-04T11:03:51.913Z - error:  [07592] [GetSuitableConfig]: Suitable build configurations with non-manual VCS checkout mode in where you have permissions to run builds were not found for the specified changes.
+2018-05-04T11:03:51.915Z - error:  [07592] [tryExecuteCommand] Suitable build configurations with non-manual VCS checkout mode in where you have permissions to run builds were not found for the specified changes.
